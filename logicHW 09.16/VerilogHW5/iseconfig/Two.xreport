@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2021-11-28T21:06:14</DateModified>
+  <DateModified>2021-12-01T18:03:46</DateModified>
   <ModuleName>Two</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>C:/Things/uni/3rdTerm/Logi/HW/logicHW 09.16/VerilogHW5/iseconfig/Two.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Things/uni/3rdTerm/Logi/HW/logicHW 09.16/VerilogHW5</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>C:/Things/uni/3rdTerm/Logi/HW/logicHW 09.16/VerilogHW5\</ImplementationReportsDirectory>
   <DateInitialized>2021-11-28T21:06:13</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
