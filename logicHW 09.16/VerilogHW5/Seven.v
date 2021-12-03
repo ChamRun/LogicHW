@@ -20,6 +20,29 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
+module HA(
+	output Sum,
+	output Cout,
+	input x,
+	input y
+);
+
+endmodule
+
+
+module FA(
+	output Sum,
+	output Cout,
+	input x,
+	input y,
+	input Cin
+);
+
+endmodule
+
+
+
+
 module x37(b, a);
 	 
 	output b.
@@ -38,8 +61,8 @@ module x37(b, a);
 	FA fa2(b[5], c3, a[0], a[3], c2);
 	FA fa3(b[6], c4, a[1], a[4], c3);
 
-	HA ha1(b[6], c5, a[2], c4);
-	HA ha2(b[6], c6, a[3], c5);
-	HA ha3(b[6], c7, a[4], c6);
+	HA ha1(b[7], c5, a[2], c4);
+	HA ha2(b[8], c6, a[3], c5);
+	HA ha3(b[9], c7, a[4], c6);
 	 
 endmodule
